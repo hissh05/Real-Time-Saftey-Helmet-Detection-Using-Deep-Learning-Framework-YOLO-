@@ -10,26 +10,27 @@ In Industry, specially manufacturing industry, Personal Protective Equipment (PP
 * An alert is raised if a person is found to be without proper PPE for more than some set duration, say 5 seconds.
 
 
-##Main Page of Project
-![img1](https://github.com/hissh05/Helmet_detection/blob/master/demo_images/main_page.png)
+## Main Page of Project
+![img1](https://github.com/hissh05/helmet-detection/blob/main/demo_images/Main_page.png)
 
 After You click Detect Employee.It will start detecting the employee
-##Person With helmet
-![img2](https://github.com/hissh05/Helmet_detection/blob/master/demo_images/with_helmet.png)
-##Person Without Helmet
-![img3](https://github.com/hissh05/Helmet_detection/blob/master/demo_images/without_helmet.png)
+
+## Person With helmet
+![img2](https://github.com/hissh05/Helmet_detection/blob/main/demo_images/with_helmet.png)
+## Person Without Helmet
+![img3](https://github.com/hissh05/Helmet_detection/blob/main/demo_images/without_helmet.png)
 
 
-##Visual and audio alarm system
+## Visual and audio alarm system
  1. visual shown in screen 
  2. a commentary is provided wherein person wearing helmet is appreciated and allowed to proceed to work area and person not wearing safety helmet is warned to wear safety 
  helmet before proceeding to work area.
 
-##Training and Collection Of Data
+## Training and Collection Of Data
  * The Data Was collected from the google images with person wearing helmet
  * Trained Data in google cloud
 
-##Exe File
+## Exe File
  * Run The Exe file in the link given below The project will run fine
  	(https://drive.google.com/file/d/1Gy_WsC-T6H4xPDCogYjfoVaFkmOwLP40/view?usp=sharing)
  * Extract The zip File and run the Exe File(helmetgui.exe)
