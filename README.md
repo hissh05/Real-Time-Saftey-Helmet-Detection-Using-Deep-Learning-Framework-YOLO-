@@ -16,9 +16,9 @@ In Industry, specially manufacturing industry, Personal Protective Equipment (PP
 After You click Detect Employee.It will start detecting the employee
 
 ## Person With helmet
-![img2](https://github.com/hissh05/helmet_detection/blob/main/demo_images/with_helmet.png)
+![img2](https://github.com/hissh05/helmet-detection/blob/main/demo_images/with_helmet.png)
 ## Person Without Helmet
-![img3](https://github.com/hissh05/helmet_detection/blob/main/demo_images/without_helmet.png)
+![img3](https://github.com/hissh05/helmet-detection/blob/main/demo_images/without_helmet.png)
 
 
 ## Visual and audio alarm system
